@@ -1,0 +1,23 @@
+.nav-bar__list {
+  display: flex;
+  flex-direction: row;
+  background-color: #222;
+  list-style: none;
+}
+.nav-bar__item a {
+  display: inline-block;
+  padding: 10px 15px;
+  font-size: 20px;
+  font-weight: 600;
+  text-decoration: none;
+  text-transform: uppercase;
+}
+.nav-bar__item a,
+.nav-bar__item a:visited {
+  color: #fff;
+}
+
+.nav-bar__item a.active {
+  background-color: #fff;
+  color: #222;
+}
