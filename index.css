@@ -5,17 +5,23 @@
     box-sizing: border-box;
     margin: 0;
     padding: 0;
+    font-weight: 400;
   }
 }
 
 html,
 body {
   min-height: 100vh;
+  min-width: 800px;
 }
 
 #root {
   min-height: 100vh;
   display: flex;
   flex-direction: column;
-  font-family: "Courier New", Courier, monospace;
+  /* font-family: "Courier New", Courier, monospace; */
+  font-family: "Montserrat", serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
 }

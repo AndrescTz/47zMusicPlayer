@@ -3,21 +3,29 @@
   flex-direction: row;
   background-color: #222;
   list-style: none;
+  box-shadow: 0px -2px 0px #ff1e5e inset;
+}
+.nav-bar__item {
 }
 .nav-bar__item a {
   display: inline-block;
   padding: 10px 15px;
   font-size: 20px;
   font-weight: 600;
+  border-top: 2px solid #222;
   text-decoration: none;
   text-transform: uppercase;
 }
 .nav-bar__item a,
 .nav-bar__item a:visited {
-  color: #fff;
+  /* color: #ff86a8; */
+  color: #c7c7c7;
 }
 
 .nav-bar__item a.active {
-  background-color: #fff;
-  color: #222;
+  padding: 10px 13px;
+  border: 2px solid #ff1e5e;
+  border-bottom: 1px solid #222;
+  background-color: #222;
+  color: #ff1e5e;
 }

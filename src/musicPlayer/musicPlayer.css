@@ -1,0 +1,30 @@
+.music-player {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  max-width: 80%;
+  min-width: 800px;
+}
+.list-header {
+  padding-right: 12px;
+  display: none;
+  background-color: #222;
+  border-bottom: 2px solid #ff1e5e;
+  display: flex;
+  position: fixed;
+  max-width: inherit;
+  min-width: inherit;
+  z-index: 1;
+}
+.music-table {
+  max-width: inherit;
+  min-width: inherit;
+  border-spacing: 0;
+  border-collapse: collapse;
+  padding-right: 12px;
+}
+
+.list-header,
+.list-header-space {
+  height: 44px;
+}

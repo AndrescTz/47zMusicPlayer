@@ -1,0 +1,44 @@
+.music-body-row {
+  height: 60px;
+  display: flex;
+  align-items: center;
+  /* scroll-snap-align: start; */
+}
+
+.music-body-row.music-row--active {
+  color: #ff1e5e;
+}
+.music-body-row:hover {
+  background-color: rgb(153, 153, 153, 0.3);
+  border-radius: 5px;
+}
+
+.music-body-row.music-row--active .item-action {
+  color: #ff1e5e;
+}
+
+.row-item {
+  padding: 10px;
+  text-align: center;
+}
+
+.row-item.row-item__action {
+  min-width: 80px;
+  width: 4%;
+}
+
+.item-action {
+  border: none;
+  color: #c7c7c7;
+  background-color: transparent;
+}
+
+.row-item.row-item__name {
+  flex: 1;
+  text-align: left;
+}
+
+.row-item__duration {
+  min-width: 80px;
+  width: 4%;
+}

@@ -1,0 +1,23 @@
+.music-player__scroll {
+  display: none;
+  position: absolute;
+  right: 0;
+  width: 10px;
+  background-color: rgb(153, 153, 153, 0.3);
+  border-radius: 10px;
+  z-index: 2;
+}
+.music-player__scroll--inline-block {
+  display: inline-block;
+}
+.music-player__table {
+  max-width: inherit;
+  min-width: inherit;
+  overflow-y: scroll;
+  scroll-behavior: smooth;
+  /* scroll-snap-type: y mandatory; */
+  position: relative;
+}
+.music-player__table::-webkit-scrollbar {
+  width: 0;
+}

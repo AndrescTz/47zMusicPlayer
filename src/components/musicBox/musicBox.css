@@ -1,0 +1,17 @@
+.music-box {
+  font-size: 20px;
+  padding: 1em 0;
+  text-align: center;
+}
+
+.music-title {
+  color: "#c7c7c7";
+  font-weight: "bold";
+}
+
+.music-time {
+  display: inline-block;
+  margin: 10px 0;
+  color: "#c7c7c7";
+  font-weight: "bold";
+}

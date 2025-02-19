@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "name": "Music 1",
+    "author": "author",
+    "duration": 8,
+    "imgSrc": ""
+  },
+  {
+    "id": 2,
+    "name": "Music 2",
+    "author": "author",
+    "duration": 10,
+    "imgSrc": ""
+  },
+  {
+    "id": 3,
+    "name": "Music 3",
+    "author": "author",
+    "duration": 4,
+    "imgSrc": ""
+  },
+  {
+    "id": 4,
+    "name": "Music 4",
+    "author": "author",
+    "duration": 3,
+    "imgSrc": ""
+  },
+  {
+    "id": 5,
+    "name": "Music 5",
+    "author": "author",
+    "duration": 5,
+    "imgSrc": ""
+  },
+  {
+    "id": 6,
+    "name": "Music 6",
+    "author": "author",
+    "duration": 7,
+    "imgSrc": ""
+  },
+  {
+    "id": 7,
+    "name": "Music 7",
+    "author": "author",
+    "duration": 2,
+    "imgSrc": ""
+  },
+  {
+    "id": 8,
+    "name": "Music 8",
+    "author": "author",
+    "duration": 23,
+    "imgSrc": ""
+  },
+  {
+    "id": 9,
+    "name": "Music 9",
+    "author": "author",
+    "duration": 86,
+    "imgSrc": ""
+  },
+  {
+    "id": 10,
+    "name": "Music 10",
+    "author": "author",
+    "duration": 107,
+    "imgSrc": ""
+  },
+  {
+    "id": 11,
+    "name": "Music 11",
+    "author": "author",
+    "duration": 94,
+    "imgSrc": ""
+  },
+  {
+    "id": 12,
+    "name": "Music 12",
+    "author": "author",
+    "duration": 12,
+    "imgSrc": ""
+  }
+]
