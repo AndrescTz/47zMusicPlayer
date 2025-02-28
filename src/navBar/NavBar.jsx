@@ -10,7 +10,7 @@ export default function NavBar() {
           <NavLink to="/">Music Player</NavLink>
         </li>
         <li className="nav-bar__item">
-          <NavLink to="/home">Option 2 </NavLink>
+          <NavLink to="/mutobs">Mut Observer</NavLink>
         </li>
         <li className="nav-bar__item">
           <NavLink to="/home2">Option 3</NavLink>
